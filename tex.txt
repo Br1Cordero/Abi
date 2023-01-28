@@ -1,0 +1,94 @@
+<div class="card">
+            <div class="card__principal">
+                <div class="card__principal-img">
+                
+                </div>
+                <div class="card__principal-container">
+                
+                    <div class="slider" id="slider">
+                    
+                        <div class="slider__section slider__section-1 ">
+                        
+                          <P>
+                            Dios te siga bendiciendo cada día mucho más, estoy agradecido con el por haberme permitido 
+
+                            conocerte Abi, espero y se que siempre seras esa hermosa y maravillosa persona que eres,
+
+                            estoy mas que seguro que siempre seras asi 
+
+                            
+                            
+                            </P>
+                        
+                        </div>
+                        <div class="slider__section slider__section-2">
+                        
+                            <P>el fanatismo ciega, el fanatismo engaña
+                                es un abismo que te arrastra con sus artimañas 
+                                Hay mucho hipócrita que dice que te apoya pero luego
+                                cuando no haces lo que quieren te incineran con su fuego
+                                
+                                Yo no estoy aqui para cumplir con tus expectativas
+                                SOLO QUIERO SER AQUELLA VOZ QUE TE MOTIVA
+                                
+                                AQUE TE AMES Y VALORES LO QUE ERES
+                                A QUE VALORES TU EXISTENCIA DESECHANDO LO QUE INFIERE
+                                EN TU CONFIANZA NO PERMITAS QUE NADIE TE LIMITE
+                                SE UN MURO INAMOVIBLE CUANDO EL DOLOR TE AGITE
+                                ERES JOVEN Y TU FUTURO BRILLA
+                                APESAR QUE EL PRESENTE TE PONGA DE RODILLAS
+                                QUIERO VERTE FELIZ APESAR DE LAS DESGRACIAS
+                                ES LA MEJOR FORMA QUE PUEDO DARTE GRACIAS</P>
+                            
+                        </div>
+                        <div class="slider__section slider__section-3">
+                        
+                            <P>
+                                No te olvides que también, ese gran árbol una vez
+
+                                Como tu un día fue, una pequeña semilla
+
+                                Que soñaba florecer con el gran miedo a no crecer
+
+                                Logro convertirse en una brutal maravilla
+
+                                No hay nada malo en ti, siempre debes sonreír
+
+                                Eres una hermosa flor que espera la luz del dia
+
+                                Para abrir sus hojas y comenzar a percibir
+
+                                La paz y el amor que en su interior se escondia
+
+                                Por favor no te marchites nunca por la depresión
+
+                                Nuestra alma es un jardín que solo busca comprensión
+
+                                No hay razón en este mundo por mas grande que parezca
+
+                                Para no hacer que nuestra vida sin restrinccion florezca
+
+                            </P>
+                        
+                        </div>
+                        <div class="slider__section slider__section-4">
+                            <P>
+                                Nadie dijo que la vida seria algo facil, aveces se presisa ser fuerte y aguil.
+                                para cuando nos golpe sin piedad mantegamos el temple ante cualquier dificultad.
+                                se que te todo saldra bien 
+                            
+                                <b>DE CUALQUIER MAERA Y DE CUALQUIER FORMA, VOY ESTAR AHI PARA TI, POR QUE SE QUE TU 
+                                    LO HARAS IGUAL, GRACIAS ABI POR TODO 💖
+                                </b>
+                            </P>
+                        </div>
+                        
+                    
+                    </div>
+                
+                    <div class="slider__btn slider__btn-left" id="btn-left"> < </div>
+                            <div class="slider__btn slider__btn-rigth" id="btn-rigth"> > </div>
+                            <script src="../js/slider.js"></script>
+                    </div>
+                </div>
+            </div>
